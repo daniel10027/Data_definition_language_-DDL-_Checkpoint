@@ -75,7 +75,4 @@ ALTER TABLE ORDERS ADD OrderDate DATE DEFAULT SYSDATE;
 - All constraints (primary keys, foreign keys) are implemented.
 - Data types respect the model specifications.
 - Additional columns were added correctly using `ALTER TABLE`.
-
-> You can now use this script to initialize your database for the hotel/shop/order management system.
-
 ---
